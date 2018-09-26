@@ -1,6 +1,5 @@
 import requests
 import json
-import pprint
 
 api = 'https://api.tfl.gov.uk'
 
