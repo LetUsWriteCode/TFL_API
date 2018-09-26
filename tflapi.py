@@ -1,7 +1,7 @@
 import requests
 import json
 import pprint
-import fnmatch
+
 
 apiBase = 'https://api.tfl.gov.uk'
 serviceAll = '/line/Mode/[]/Status'
